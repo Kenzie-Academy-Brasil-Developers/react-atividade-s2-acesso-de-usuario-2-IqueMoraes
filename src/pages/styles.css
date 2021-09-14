@@ -1,0 +1,16 @@
+ul {
+  margin: 0 0 30px;
+  padding: 0;
+}
+li {
+  list-style: none;
+  text-align: center;
+}
+a {
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(231, 231, 75);
+}
